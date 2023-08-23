@@ -1,10 +1,8 @@
-import { Button, Header } from "ui";
-
 export default function Page(): JSX.Element {
   return (
     <>
-      <Header text="Web" />
-      <Button />
+      <div>Hello World!</div>
+      <div>This is a Page</div>
     </>
   );
 }
